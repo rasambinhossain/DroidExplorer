@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroidExplorer</string>
+    <string name="up_one_level">Back</string>
+    <string name="current_dir">Current Directory</string>
+    <string name="menu_details">Details</string>
+
+</resources>
